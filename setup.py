@@ -1,7 +1,7 @@
 from distutils.core import setup
 
 setup(
-    name='Scholar',
+    name='Scholarp',
     version='0.1.0',
     author='Christian Kreibich',
     py_modules=['scholar.py'],
