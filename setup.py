@@ -4,7 +4,7 @@ setup(
     name='Scholar',
     version='0.0.1',
     author='Christian Kreibich',
-    packages=['scholar',], 
+#    packages=['scholar',], 
     scripts=['scholar.py'],
     url='http://www.icir.org/christian/scholar.html',
     license='LICENSE.txt',
